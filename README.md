@@ -1,6 +1,6 @@
 ## Hi there👋
 - 🔭 I’m currently working on things I find cool or Intresting 
-- 🌱 I’m currently learning on more about machine learning and ways to Improve my skills as a programmer
+- 🌱 I’m currently learning ways to Improve my skills as a programmer
 
 <!--
 **SS-ROY29/SS-ROY29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
